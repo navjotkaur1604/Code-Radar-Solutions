@@ -5,5 +5,5 @@ int main (){
     scanf("%f", &x);
     printf("%d", 3.14*x*x);
 
-
+return 0;
 }
